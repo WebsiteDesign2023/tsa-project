@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+.header {
+    background-color:rgb(51, 250, 233);
+    color:ivory;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ 
+.nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+   
+}
+ 
+.nav a {
+    color: ivory;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 10px;
+}
